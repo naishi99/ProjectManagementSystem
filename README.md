@@ -1,4 +1,4 @@
-**Project Management System**<br/>
+# **Project Management System**<br/>
 Project Management System is an application that allows easy and convenient data management to companies, schools, organisations and institutions. It provides a safe and personalized experience of management.<br/>
 **PROBLEM STATEMENT** <br/>
 This project must give the admin and employees functionalities to ensure smooth working and management. The objective of this project is to build an automated system for project management. The features to be included are: Adding, updating or deleting data from the management database. The data must not be corrupted by users that are not authorized to access it. 
