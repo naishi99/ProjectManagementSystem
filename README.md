@@ -12,7 +12,7 @@ To ensure data security, the admin must always enter the password before he/she 
 4. Adding , viewing and finishing projects and activities
 5. Giving promotions to well-performing employees
 6. Searching for specific projects, activities and employees using their IDs 
-<br/>
+
 **Project Members:** <br/>
 Naishi Shah<br/>
 Devshree Patel
